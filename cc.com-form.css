@@ -1,0 +1,32 @@
+.af-form, .af-form .quirksMode{
+	width: 100%;
+}
+
+.af-body{
+	min-height:50px;
+}
+
+.infusion-field-input-container{
+	float: left;
+	width: 40%;
+        min-height: 35px;
+        padding: 3px;
+        margin-left: 15px;
+        font-size: 14px;
+        padding-left:20px;
+}
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 52px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+ -webkit-border-radius: 23;
+  -moz-border-radius: 23;
+  border-radius: 23px;
+}
